@@ -2,6 +2,12 @@
 Docker Project For IIEC RISE ID 2020.2.16.6
 ## Docker-Yolo is Project for IIEC-Docker Training. It uses Opencv and YoloV3 (You Only Look Once) Model for Real Time Object Detection.Its build with Docker Resources so that everyone can get the idea how the Real Time Object Detection looks like. Its very basic and uses very less resources in backend. Its Combined with docker so that everyone can easily install and test by themself. The Installion is Very Easy and works out of the box.
 
+# Requirements
+
+          Docker 19 Must be Installed.
+
+
+Note: This Project Only Works on Linux as Webcam Docker Support is still not present in the Windows & Mac.
 # Installation Guide
 There are 2 Methods for Installation
 ## Method 1 - Consumes Less Internet
