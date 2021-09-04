@@ -1,5 +1,5 @@
 # Docker-Yolo
-## Docker-Yolo is Project for IIEC-Docker Training. It uses Opencv and YoloV3 (You Only Look Once) Model for Real Time Object Detection.Its build with Docker Resources so that everyone can get the idea how the Real Time Object Detection looks like. Its very basic and uses very less resources in backend. Its Combined with docker so that everyone can easily install and test by themself. The Installion is Very Easy and works out of the box.
+## Docker-Yolo is Project for which Combines the Power of AI and Docker. It uses Opencv and YoloV3 (You Only Look Once) Model for Real Time Object Detection.Its build with Docker Resources so that everyone can get the idea how the Real Time Object Detection looks like. Its very basic and uses very less resources in backend. Its Combined with docker so that everyone can easily install and test by themself. The Installion is Very Easy and works out of the box.
 
 # Requirements
 
